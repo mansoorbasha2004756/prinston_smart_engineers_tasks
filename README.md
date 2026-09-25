@@ -1,6 +1,6 @@
-# CodeAlpha Data Science Internship Tasks
+# Prinston Data Science Internship Tasks
 
-This repository contains the tasks completed as part of the **CodeAlpha Data Science Internship**. Each task explores a different data science concept, from supervised machine learning classification to exploratory data analysis on real-world socioeconomic data.
+This repository contains the tasks completed as part of the **Prinston Data Science Internship**. Each task explores a different data science concept, from supervised machine learning classification to exploratory data analysis on real-world socioeconomic data.
 
 ## 📁 Repository Structure
 
@@ -87,8 +87,8 @@ An exploratory data analysis (EDA) project examining unemployment trends in the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mansoorbasha2004756/codealpha_tasks.git
-   cd codealpha_tasks
+   git clone https://github.com/mansoorbasha2004756/prinston_smart_engineers_tasks.git
+   cd prinston_smart_engineers_tasks
    ```
 
 2. Install the required dependencies:
@@ -103,9 +103,9 @@ An exploratory data analysis (EDA) project examining unemployment trends in the 
 
 ---
 
-## 🎓 About CodeAlpha
+## 🎓 About Prinston smart engineers
 
-This project was completed as part of the **CodeAlpha Data Science Internship**, aimed at providing hands-on experience with real-world data science problems, from machine learning classification to exploratory data analysis.
+This project was completed as part of the **Printson Data Science Internship**, aimed at providing hands-on experience with real-world data science problems, from machine learning classification to exploratory data analysis.
 
 ## 📌 Status
 
